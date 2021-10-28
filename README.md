@@ -1,2 +1,2 @@
-# coderhouse
-curso javascript
+# coderhouse entregas curso JavaScript
+Entrega 1

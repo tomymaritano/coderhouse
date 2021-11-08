@@ -1,0 +1,25 @@
+  * {
+  box-sizing: border-box;
+  padding: auto;
+}
+
+body {
+  background-color: #232326;
+  text-align: center;
+}
+
+h1, p {
+  color: white;
+  font-family:monospace;
+}
+
+h2 {
+  color: #F27777;
+  font-family:monospace;
+}
+
+section {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
